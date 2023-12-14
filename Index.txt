@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8">
+	<link href="css/styles.css" rel="stylesheet" type="text/css">
+	</head>
+	
+<body>
+<div id="wrapper">
+		<div id="header">Название организации: 123
+		
+		
+		</div>
+		
+		<div id="content">
+		
+		
+		
+		</div>
+		
+		<div id="Nav">
+		<ul>
+		<li>Главная</li>
+		<li>О нас</li>
+		<li>Каталог</li>
+		<li>Контакты</li>
+		
+		
+		
+		</div>
+		
+		<div id="Footer">
+		
+		
+		
+		</div>
+</div>
+</body>
+</html>
